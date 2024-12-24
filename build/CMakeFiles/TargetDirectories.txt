@@ -1,0 +1,3 @@
+/home/patriarch/univer/pp/p5_open_mp/build/CMakeFiles/main.dir
+/home/patriarch/univer/pp/p5_open_mp/build/CMakeFiles/edit_cache.dir
+/home/patriarch/univer/pp/p5_open_mp/build/CMakeFiles/rebuild_cache.dir
