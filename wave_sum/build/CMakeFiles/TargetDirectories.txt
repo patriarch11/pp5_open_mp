@@ -1,0 +1,3 @@
+/home/user/univer/pp5_open_mp/wave_sum/build/CMakeFiles/main.dir
+/home/user/univer/pp5_open_mp/wave_sum/build/CMakeFiles/edit_cache.dir
+/home/user/univer/pp5_open_mp/wave_sum/build/CMakeFiles/rebuild_cache.dir

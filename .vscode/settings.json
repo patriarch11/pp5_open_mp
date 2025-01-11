@@ -56,5 +56,5 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
-  "cmake.sourceDirectory": "/home/patriarch/univer/pp/p5_open_mp/wave_sum"
+  "cmake.sourceDirectory": "/home/user/univer/pp5_open_mp/wave_sum"
 }

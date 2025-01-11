@@ -1,0 +1,1 @@
+/usr/bin/cc  -fopenmp CMakeFiles/main.dir/main.c.o -o main  -lm /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a 
